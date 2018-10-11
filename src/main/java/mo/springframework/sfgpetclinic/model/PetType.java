@@ -1,7 +1,7 @@
 package mo.springframework.sfgpetclinic.model;
 
 public class PetType {
-
+//will add more later
     private String name;
 
     public String getName() {
